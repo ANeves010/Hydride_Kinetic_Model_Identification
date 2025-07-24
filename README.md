@@ -4,3 +4,8 @@ In this work, the kinetic properties of metal hydride AB2 alloy are investigated
 Twelve neural networks are trained with simulated data, coming from twelve different kinetic models (equations), using a range of kinetic constant (k) values. These networks are tasked with the reconstruction of the experimental data and the coefficient of determination (R^2) of all networks are compared to determine the best-ranked model for each combination of temperature and pressure. The input for the reconstruction is the time series (reacted fraction vs time) and the output contains the reconstructed curve and the coefficient of determination calculated between the reconstruction and the experimental data. The reacted fraction is calculated by the amount of absorbed (or desorbed) hydrogen divided by the maximum reached capacity during absorption (or desorption). 
 
 This repository contains the raw data, a summary of results and the programming code.
+
+Credits
+Maintainer and Data Analysis: Dr.-Ing. André Neves
+Data Collection: Dr. Jan Warfsmann
+Coding: Dr. Willi Großmann
