@@ -7,8 +7,7 @@ This repository contains the raw data, a summary of results and the programming 
 
 Credits - Maintainer and Data Analysis: Dr.-Ing. André Neves; Data Collection: Dr. Jan Warfsmann; Coding: Dr. Willi Großmann
 
-First version updated on: 24.07.2025 // Version v1.0
-Latest Changes: 24.07.2025 // Current Version v1.0
+First version updated on: 24.07.2025 // Version v1.0 // Latest Changes: 24.07.2025 // Current Version v1.0
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
