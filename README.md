@@ -5,7 +5,4 @@ Twelve neural networks are trained with simulated data, coming from twelve diffe
 
 This repository contains the raw data, a summary of results and the programming code.
 
-Credits
-Maintainer and Data Analysis: Dr.-Ing. André Neves
-Data Collection: Dr. Jan Warfsmann
-Coding: Dr. Willi Großmann
+Credits - Maintainer and Data Analysis: Dr.-Ing. André Neves; Data Collection: Dr. Jan Warfsmann; Coding: Dr. Willi Großmann
